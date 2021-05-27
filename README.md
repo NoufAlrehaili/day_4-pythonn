@@ -1,0 +1,2 @@
+### NewClass Package Details
+      - This package computes the max, min, square max, length, sum the positive numbers, count the negative numbers, mean, and square root of all the random variables that start from 1 to 100 with size 20
